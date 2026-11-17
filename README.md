@@ -99,7 +99,6 @@ Defects are filed with the following standard schema:
 * **Entry Criteria:** Local environment running successfully, backlog and API contracts reviewed, Jira board configured.
 * **Exit Criteria:** $100\%$ scope coverage logged, all test cases executed with Pass/Fail status, failed test cases linked to open/verified Jira bugs, execution summary finalized.
 
-Developed as part of a course for [Dalil Information Technology]([https://www.linkedin.com/company/tek-community/](https://www.linkedin.com/company/dalil-information-technology-jo)).
-
+Developed as part of a course for [Dalil Information Technology](https://www.linkedin.com/company/dalil-information-technology-jo).
 
 <img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/0e1b05a0-3036-422a-9669-48575e4fb930" />
