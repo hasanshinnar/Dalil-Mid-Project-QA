@@ -1,9 +1,5 @@
 # EduShop QA Testing Project — Midterm Assignment
 
-![EduShop QA Status](https://img.shields.io/badge/Testing%20Scope-Manual%20%26%20API-blue?style=flat-square)
-![Jira Integration](https://img.shields.io/badge/Jira%20%26%20Zephyr-Configured-0052CC?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-ASP.NET%20Core%208%20|%20Angular%20|%20PostgreSQL-lightgrey?style=flat-square)
-
 ## Reference & Source Repository
 This project builds upon the foundational EduShop test bed framework. For additional test scripts, API definitions, performance suites, and automation setups, refer to the source repository:
 **[EduShop E-Commerce Test Project Repository](https://github.com/hasanshinnar/E-Commerce-test-project-for-API---JMeter---Automation)**
@@ -102,3 +98,8 @@ Defects are filed with the following standard schema:
 
 * **Entry Criteria:** Local environment running successfully, backlog and API contracts reviewed, Jira board configured.
 * **Exit Criteria:** $100\%$ scope coverage logged, all test cases executed with Pass/Fail status, failed test cases linked to open/verified Jira bugs, execution summary finalized.
+
+Developed as part of a course for ([Dalil Information Technology]([https://www.linkedin.com/company/tek-community/](https://www.linkedin.com/company/dalil-information-technology-jo)).
+
+
+<img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/0e1b05a0-3036-422a-9669-48575e4fb930" />
